@@ -1,0 +1,6 @@
+selenium==4.7.2
+urllib3==1.26.13
+webdriver-manager
+pywin32
+psutil==7.0.0
+beautifulsoup4==4.13.3

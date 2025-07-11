@@ -1,0 +1,8 @@
+# Build
+build/
+*.spec
+__pycache__/
+
+# Config
+benepia_config.json
+benepia_icon.ico
